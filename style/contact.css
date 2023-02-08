@@ -1,0 +1,74 @@
+header {
+  border-bottom: 1px solid black;
+}
+nav {
+  margin: 25px 0;
+  text-align: center;
+}
+.logo {
+  text-decoration: none;
+  font-family: "Anek Malayalam-regular";
+  font-size: 26px;
+
+  line-height: 27px;
+  color: hsba(0, 0%, 0%, 1);
+  color: black;
+  display: inline-block;
+}
+
+nav ul {
+  display: inline-block;
+  margin-left: 270px;
+  margin-right: 370px;
+}
+
+nav li {
+  display: inline-block;
+}
+li a {
+  font-size: 18px;
+  font-family: "Poppins-medium";
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  line-height: 27px;
+}
+nav li:nth-child(n + 2) {
+  padding-left: 51px;
+}
+h1 {
+  text-align: center;
+  font-size: 40px;
+  line-height: 47px;
+  letter-spacing: 0.03em;
+  color: rgba(125, 0, 0, 1);
+  margin: 147px 0 119px 0;
+  font-family: "Andada-bold";
+}
+.container {
+  margin: 0 280px;
+}
+.part2 {
+  margin-top: 34px;
+}
+span {
+  font-family: "AndadaPro-Semibolod";
+  font-size: 27px;
+  line-height: 32px;
+  letter-spacing: 0.03em;
+  color: rgba(11, 37, 62, 1);
+}
+.part1 span:nth-child(2) {
+  padding-left: 309px;
+}
+.part2 span:nth-child(2) {
+  padding-left: 353px;
+}
+
+.part1 span:nth-child(1) {
+  font-style: italic;
+  text-decoration: underline;
+}
+main {
+  margin-bottom: 193px;
+}

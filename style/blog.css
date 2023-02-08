@@ -1,0 +1,146 @@
+header {
+  border-bottom: 1px solid black;
+}
+nav {
+  margin: 25px 0;
+  text-align: center;
+}
+.logo {
+  text-decoration: none;
+  font-family: "Anek Malayalam-regular";
+  font-size: 26px;
+  line-height: 27px;
+  color: hsba(0, 0%, 0%, 1);
+  color: black;
+  display: inline-block;
+}
+
+nav ul {
+  display: inline-block;
+  margin-left: 270px;
+  margin-right: 370px;
+}
+
+nav li {
+  display: inline-block;
+}
+li a {
+  font-size: 18px;
+  font-family: "Poppins-medium";
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  line-height: 27px;
+}
+nav li:nth-child(n + 2) {
+  padding-left: 51px;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: calc(1440px - 94px - 98px);
+  width: 90%;
+}
+
+.summer-container img {
+  width: 308px;
+}
+
+h1 {
+  font-family: "FiraGo-regular";
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 29px;
+  margin: 47px 0 93px 0;
+}
+.container ul {
+  text-align: center;
+  margin-bottom: 68px;
+}
+
+ul li {
+  display: inline-block;
+  font-family: "FiraGo-medium";
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+}
+ul li:nth-child(n + 2) {
+  padding-left: 65px;
+}
+
+.summer {
+  display: inline-block;
+  background: rgba(229, 235, 229, 1);
+  padding: 38px 32px 12px 36px;
+  vertical-align: top;
+  margin-left: 18px;
+}
+
+.summer h2 {
+  font-family: "FiraGo-medium";
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+}
+
+.summer p {
+  width: 850px;
+  padding-top: 32px;
+  padding-bottom: 39px;
+  font-family: "FiraGo-light";
+  font-size: 14px;
+  font-weight: 350;
+  line-height: 17px;
+}
+
+button {
+  display: block;
+  margin-left: auto;
+  height: 40px;
+  width: 174px;
+  border-radius: 4px;
+  border: 1px solid rgba(0, 0, 0, 1);
+  background-color: white;
+  margin-top: 14px;
+  cursor: pointer;
+}
+
+.komono-container {
+  margin-top: 63px;
+}
+
+.komono-container img {
+  width: 308px;
+  border-top-left-radius: 22px;
+  border-bottom-left-radius: 22px;
+}
+
+.komono {
+  display: inline-block;
+  background: rgba(229, 235, 229, 1);
+  padding: 35px 32px 0 36px;
+  vertical-align: top;
+  margin-left: 18px;
+}
+
+.komono h2 {
+  font-family: "FiraGo-medium";
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22px;
+}
+
+.komono p {
+  width: 850px;
+  padding-top: 35px;
+  padding-bottom: calc(228px - 177px);
+  font-family: "FiraGo-light";
+  font-size: 14px;
+  font-weight: 350;
+  line-height: 17px;
+}
+
+main {
+  margin-bottom: 51px;
+}

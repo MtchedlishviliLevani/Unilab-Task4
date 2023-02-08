@@ -1,0 +1,50 @@
+@font-face {
+    font-family: 'Anek Malayalam-regular';
+    src: url(../Fonts/AnekMalayalam-Regular.ttf);
+}
+@font-face {
+    font-family: 'Poppins-regular';
+    src: url(../Fonts/Poppins-Regular.ttf);
+}
+@font-face {
+    font-family:'Poppins-medium';
+    src: url(../Fonts/Poppins-Medium.ttf);
+}
+@font-face {
+    font-family:'Popins-bold';
+    src: url(../Fonts/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family:'Open Sans-regular';  
+    src: url(../Fonts/OpenSans-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'AndadaPro-regular';
+    src: url(../Fonts/AndadaPro-Regular.ttf);
+}
+
+@font-face {
+    font-family:'AndadaPro-Semibolod';
+    src: url(../Fonts/AndadaPro-SemiBold.ttf);
+}
+
+@font-face {
+    font-family:'FiraGo-regular';
+    src: url(../Fonts/FiraGO-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'FiraGo-light';
+    src: url(../Fonts/FiraGO-Light.ttf);
+}
+
+@font-face {
+    font-family: 'FiraGo-medium';
+    src: url(../Fonts/FiraGO-Medium.ttf);
+}
+
+@font-face {
+    font-family:'Andada-bold' ;
+    src: url(../Fonts/AndadaPro-Bold.ttf);
+}

@@ -1,0 +1,98 @@
+header{
+    border-bottom: 1px solid black;
+}
+nav{
+    margin: 25px 0;
+    text-align: center;
+}
+.logo{text-decoration: none;
+    font-family: 'Anek Malayalam-regular';
+font-size: 26px;
+
+line-height: 27px;
+color: hsba(0, 0%, 0%, 1);
+color: black;
+display: inline-block;}
+
+
+nav ul{
+    display: inline-block;
+    margin-left: 270px;
+    margin-right: 370px;
+}
+
+nav li  {
+    display:inline-block;
+}
+li a{
+    font-size: 18px;
+    font-family:'Poppins-medium';
+    text-decoration: none;
+    color:black;
+    font-size: 18px;
+line-height: 27px;
+}
+nav li:nth-child(n+2){
+    padding-left: 51px;
+}
+
+
+h1{
+    font-family:'AndadaPro-Semibolod';
+font-size: 40px;
+line-height: 47px;
+text-align: center;
+margin: 134px 0 114px 0;
+color: rgba(125, 0, 0, 1);
+
+
+}
+
+.container{
+    margin-left: 126px;
+    display: inline-block;
+}
+
+.information{
+font-size: 25px;
+line-height: 41px;
+letter-spacing: 0.03em;
+display: inline-block;
+width: 650px;
+vertical-align: top;
+}
+
+.information > p{
+    font-family:'AndadaPro-Semibolod';
+font-size: 25px;
+line-height: 41px;
+letter-spacing: 0.03em;
+
+
+}
+
+.information address{
+    font-family: 'AndadaPro-regular';
+font-size: 25px;
+font-style: italic;
+line-height: 29px;
+letter-spacing: 0.03em;
+margin-top: 89px;
+color:rgba(0, 0, 0, 1);
+text-decoration: underline;
+text-align: end;
+
+
+}
+.shirt{
+    display: inline-block;
+}
+.shirt img{
+    width: 500px;
+    margin-top: 70px;
+    margin-left: 59px;
+}
+
+main{
+    margin-bottom: 237px;
+}

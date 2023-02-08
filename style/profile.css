@@ -1,0 +1,145 @@
+header {
+  border-bottom: 1px solid black;
+}
+nav {
+  margin: 25px 0;
+  text-align: center;
+}
+.logo {
+  text-decoration: none;
+  font-family: "Anek Malayalam-regular";
+  font-size: 26px;
+
+  line-height: 27px;
+  color: hsba(0, 0%, 0%, 1);
+  color: black;
+  display: inline-block;
+}
+
+nav ul {
+  display: inline-block;
+  margin-left: 270px;
+  margin-right: 370px;
+}
+
+nav li {
+  display: inline-block;
+}
+li a {
+  font-size: 18px;
+  font-family: "Poppins-medium";
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  line-height: 27px;
+}
+nav li:nth-child(n + 2) {
+  padding-left: 51px;
+}
+
+.main-section {
+  margin-left: 206px;
+  margin-right: 219px;
+}
+
+.profile {
+  margin-top: 169px;
+  margin-bottom: 96px;
+}
+
+.name {
+  display: inline-block;
+  vertical-align: top;
+  margin-left: 68px;
+}
+
+.name span:nth-child(1) {
+  display: block;
+  margin-top: 63px;
+  margin-bottom: 14px;
+  font-family: "Poppins-medium";
+  font-size: 30px;
+  line-height: 45px;
+  letter-spacing: 0.03em;
+}
+
+.profession {
+  padding-top: 14px;
+  font-family: "Poppins-regular";
+  font-size: 22px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0.03em;
+  color: rgba(84, 108, 204, 1);
+}
+
+.about {
+  width: 135px;
+  border-bottom: 1px solid rgba(125, 0, 0, 1);
+}
+
+.about > span {
+  text-align: center;
+  display: block;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.03em;
+  font-family: "Poppins-medium";
+  padding-bottom: 16px;
+}
+
+.part1 > span {
+  display: block;
+  font-family: "Popins-bold";
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.05em;
+}
+
+.part1 > span:nth-child(2),
+.part2 > span:nth-child(2) {
+  padding: 30px 0;
+}
+
+.part2 > span {
+  display: block;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  letter-spacing: 0.03em;
+  font-family: "Poppins-medium";
+}
+
+.part1,
+.part2 {
+  display: inline-block;
+}
+
+.part2 {
+  margin-left: 147px;
+}
+
+button {
+  margin-left: auto;
+  display: block;
+  height: 70px;
+  width: 265px;
+  border-radius: 10px;
+  cursor: pointer;
+  background: rgba(135, 172, 135, 1);
+  font-family: "Poppins-medium";
+  color: rgba(255, 255, 255, 1);
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 38px;
+  border-style: none;
+}
+
+address {
+  margin-top: 58px;
+}
+
+main {
+  margin-bottom: 146px;
+}
